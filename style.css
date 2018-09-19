@@ -1,0 +1,19 @@
+.headerFont {
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+.pFont {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    font-size: 17px;
+}
+
+.topBar {
+    display: block;
+    text-decoration: none;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    text-align: center;
+}
